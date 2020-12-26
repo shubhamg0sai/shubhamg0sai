@@ -24,6 +24,17 @@
 
 
 
+
+
+<p align="center">
+<a href="https://github.com/ShuBhamg0sain/Shubhamg0sain"><img title="BLACK-KILLER" src="https://raw.githubusercontent.com/ShuBhamg0sain/Shubhamg0sain/main/Blog/Screenshot_20201226_113656.jpg"></a>
+</p>
+
+
+
+
+
+
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/joinchat/QqcdHg_JA4dI9jF3Mi_vkQ)
 
 
@@ -34,17 +45,6 @@
 
 
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/shubham.gosain.980)
-
-
-
-
-<p align="center">
-<a href="https://github.com/ShuBhamg0sain/Shubhamg0sain"><img title="BLACK-KILLER" src="https://raw.githubusercontent.com/ShuBhamg0sain/Shubhamg0sain/main/Blog/Screenshot_20201226_113656.jpg"></a>
-</p>
-
-
-
-
 
 
 
