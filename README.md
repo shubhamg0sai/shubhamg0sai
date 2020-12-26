@@ -28,8 +28,8 @@
 
 
 
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/shubham.gosain.980) [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-1-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q)
-
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/shubham.gosain.980)
+ [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-1-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q)
 
 
 
