@@ -41,19 +41,21 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/joinchat/QqcdHg_JA4dI9jF3Mi_vkQ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
