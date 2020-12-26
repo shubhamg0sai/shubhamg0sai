@@ -39,7 +39,7 @@
 
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+<a href="https://github.com/ShuBhamg0sain/Shubhamg0sain"><img title="BLACK-KILLER" src=""></a>
 </p>
 
 
