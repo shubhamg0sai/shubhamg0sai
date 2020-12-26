@@ -78,6 +78,7 @@ bash Find.sh
 👇
 👇
 👇
+
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/joinchat/QqcdHg_JA4dI9jF3Mi_vkQ)
 
 
@@ -88,6 +89,7 @@ bash Find.sh
 
 
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/shubham.gosain.980)
+
 👆
 👆
 👆
