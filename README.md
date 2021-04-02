@@ -69,7 +69,7 @@ bash Find.sh
 
 
 # instagram id
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/FIND-ME/main/Blog/IMG_20201226_022412.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Shubhamg0sain/main/Blog/IMG_20210402_084144.jpg)
 
 
 
@@ -80,7 +80,7 @@ bash Find.sh
 
 
 # telegram group
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/FIND-ME/main/Blog/IMG_20201226_022332.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Shubhamg0sain/main/Blog/IMG_20210402_084201.jpg)
 
 
 
