@@ -17,13 +17,20 @@ Contact me
 
 
 # Facebook Hack Cloning IDs Tools
-1. https://github.com/ShuBhamg0sain/Inallsim-v1
-2. https://github.com/ShuBhamg0sain/Inallsim-v2
-3. https://github.com/ShuBhamg0sain/worldsallsim-v1
-4. https://github.com/ShuBhamg0sain/worldsallsim-v2
+1. https://github.com/ShuBhamg0sain/facebook_id_hack-v2.1
+
+2. https://github.com/ShuBhamg0sain/facebook_id_hack-v2.2
+
+3. https://github.com/ShuBhamg0sain/facebook_id_hack-v1.1
+
+4. https://github.com/ShuBhamg0sain/facebook_id_hack-v1.2
+
 5. https://github.com/ShuBhamg0sain/fb-cloning-id
+
 6. https://github.com/ShuBhamg0sain/Facebook_group_hack
+
 7. https://github.com/ShuBhamg0sain/Facebook_hack
+
 8. https://github.com/ShuBhamg0sain/Fbbrute
 
 # FIND-ME
