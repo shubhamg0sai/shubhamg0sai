@@ -76,7 +76,7 @@ bash Find.sh
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/joinchat/QqcdHg_JA4dI9jF3Mi_vkQ)
 
 # instagram id
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-ME-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOWME-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
 # Facebook group
 [![Instagram](https://img.shields.io/badge/FACEBOOK-JOIN-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/groups/915582419225414)
