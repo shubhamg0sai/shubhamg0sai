@@ -78,8 +78,8 @@ bash Find.sh
 # instagram id
 👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
-# Facebook id
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/shubham.gosain.980)
+# Facebook group
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/groups/915582419225414)
 
 👆
 👆
