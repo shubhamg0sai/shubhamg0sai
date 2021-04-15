@@ -55,6 +55,11 @@ bash Find.sh
 
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/FIND-ME/main/Blog/Screenshot_20201226_022736.jpg)
 
+👇
+👇
+👇
+👇
+
 # what app group 1
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q)
 
@@ -67,23 +72,13 @@ bash Find.sh
 # what app group 4
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/FCFbtuUFoCdF9FpJic7R8y)
 
-# instagram id
-
-# Facebook id
-
 # telegram group
-
-
-👇
-👇
-👇
-👇
-
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/joinchat/QqcdHg_JA4dI9jF3Mi_vkQ)
 
+# instagram id
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
-
-
+# Facebook id
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/shubham.gosain.980)
 
 👆
