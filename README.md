@@ -55,35 +55,5 @@ bash Find.sh
 
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/FIND-ME/main/Blog/Screenshot_20201226_022736.jpg)
 
-👇
-👇
-👇
-👇
-
-# what app group 1
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q)
-
-# what app group 2
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/L4iSBfleMKqKd1G10f7IIc)
-
-# what app group 3
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO)
-
-# what app group 4
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/FCFbtuUFoCdF9FpJic7R8y)
-
-# telegram group
-[![Instagram](https://img.shields.io/badge/TELEGRAM-JOINGROUP-red?style=for-the-badge&logo=telegram)](https://t.me/joinchat/QqcdHg_JA4dI9jF3Mi_vkQ)
-
-# instagram id
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOWME-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
-
-# Facebook group
-[![Instagram](https://img.shields.io/badge/FACEBOOK-JOIN-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/groups/915582419225414)
-
-👆
-👆
-👆
-👆
 
 
