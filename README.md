@@ -33,27 +33,3 @@ Contact me
 
 8. https://github.com/ShuBhamg0sain/Fbbrute
 
-# FIND-ME
-
-# finding process
-
-apt update
-
- apt upgrade -y
-
- apt install git -y
-
- pkg install python
-
-pkg install python2 -y
-
-git clone https://github.com/ShuBhamg0sain/FIND-ME
-
-cd FIND-ME
-
-bash Find.sh
-
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/FIND-ME/main/Blog/Screenshot_20201226_022736.jpg)
-
-
-
