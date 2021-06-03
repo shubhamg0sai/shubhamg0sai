@@ -1,0 +1,117 @@
+.class public Lcom/kubernet/followers/LoginActivity;
+.super La/b/c/h;
+.source "LoginActivity.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lcom/kubernet/followers/LoginActivity$a;,
+        Lcom/kubernet/followers/LoginActivity$b;
+    }
+.end annotation
+
+
+# static fields
+.field public static final synthetic r:I
+
+
+# instance fields
+.field public o:Landroid/webkit/WebView;
+
+.field public p:Lb/d/a/a0/a;
+
+.field public q:Lb/d/a/a0/c;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, La/b/c/h;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onCreate(Landroid/os/Bundle;)V
+    .locals 2
+    .annotation build Landroid/annotation/SuppressLint;
+        value = {
+            "SetJavaScriptEnabled"
+        }
+    .end annotation
+
+    .line 1
+    invoke-super {p0, p1}, La/b/c/h;->onCreate(Landroid/os/Bundle;)V
+
+    const p1, 0x7f0b001f
+
+    .line 2
+    invoke-virtual {p0, p1}, La/b/c/h;->setContentView(I)V
+
+    .line 3
+    new-instance p1, Lb/d/a/a0/a;
+
+    invoke-direct {p1, p0}, Lb/d/a/a0/a;-><init>(Landroid/content/Context;)V
+
+    iput-object p1, p0, Lcom/kubernet/followers/LoginActivity;->p:Lb/d/a/a0/a;
+
+    .line 4
+    new-instance p1, Lb/d/a/a0/c;
+
+    invoke-direct {p1, p0}, Lb/d/a/a0/c;-><init>(Landroid/content/Context;)V
+
+    iput-object p1, p0, Lcom/kubernet/followers/LoginActivity;->q:Lb/d/a/a0/c;
+
+    const p1, 0x7f080200
+
+    .line 5
+    invoke-virtual {p0, p1}, La/b/c/h;->findViewById(I)Landroid/view/View;
+
+    move-result-object p1
+
+    check-cast p1, Landroid/webkit/WebView;
+
+    iput-object p1, p0, Lcom/kubernet/followers/LoginActivity;->o:Landroid/webkit/WebView;
+
+    .line 6
+    invoke-virtual {p1}, Landroid/webkit/WebView;->getSettings()Landroid/webkit/WebSettings;
+
+    move-result-object p1
+
+    const/4 v0, 0x1
+
+    invoke-virtual {p1, v0}, Landroid/webkit/WebSettings;->setJavaScriptEnabled(Z)V
+
+    .line 7
+    iget-object p1, p0, Lcom/kubernet/followers/LoginActivity;->o:Landroid/webkit/WebView;
+
+    new-instance v0, Lcom/kubernet/followers/LoginActivity$a;
+
+    invoke-direct {v0, p0}, Lcom/kubernet/followers/LoginActivity$a;-><init>(Lcom/kubernet/followers/LoginActivity;)V
+
+    invoke-virtual {p1, v0}, Landroid/webkit/WebView;->setWebViewClient(Landroid/webkit/WebViewClient;)V
+
+    .line 8
+    iget-object p1, p0, Lcom/kubernet/followers/LoginActivity;->o:Landroid/webkit/WebView;
+
+    new-instance v0, Lcom/kubernet/followers/LoginActivity$b;
+
+    invoke-direct {v0, p0}, Lcom/kubernet/followers/LoginActivity$b;-><init>(Landroid/content/Context;)V
+
+    const-string v1, "Android"
+
+    invoke-virtual {p1, v0, v1}, Landroid/webkit/WebView;->addJavascriptInterface(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 9
+    iget-object p1, p0, Lcom/kubernet/followers/LoginActivity;->o:Landroid/webkit/WebView;
+
+    const-string v0, "https://www.instagram.com/accounts/login"
+
+    invoke-virtual {p1, v0}, Landroid/webkit/WebView;->loadUrl(Ljava/lang/String;)V
+
+    return-void
+.end method
