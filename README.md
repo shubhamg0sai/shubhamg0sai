@@ -5,7 +5,7 @@
 <h3 align="left">Contact me </h3>
 <p align="left">
 <a href="https://instagram.com/shubhamg0sai?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://shorturl.at/bfl68" height="30" width="40" /></a>  
-<a href="https://open.spotify.com/shubhamg0sai?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="http://shorturl.at/bfl68" height="30" width="40" /></a>  
+<a href="https://open.snapchat.com/shubhamg0sai?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="http://shorturl.at/bfl68" height="30" width="40" /></a>  
 <a href="https://open.spotify.com/shubhamg0sai?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="http://shorturl.at/bfl68" height="30" width="40" /></a>  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamg0sai&show_icons=true&locale=en&layout=compact" alt="shubhamg0sai" /></p>
