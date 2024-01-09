@@ -49,6 +49,35 @@ return 0;
 }
 ```
 
+```sh
+#include <stdio.h>
+#define n 3
+int transpose(int ma[][n], int tr[][n])
+{
+        int i, j;
+        for (i = 0; i < n; i++)
+                for (j = 0; j < n; j++)
+                        tr[i][j] = ma[j][i];
+}
+int main()
+{
+        int ma[n][n] = { { 1, 1, 1 },
+                        { 2, 2, 2 },
+                        { 3, 3, 3 } };
+
+        int tr[n][n], i, j;
+        transpose(ma, tr);
+
+        printf("Result matrix is \n");
+        for (i = 0; i < n; i++) {
+                for (j = 0; j < n; j++)
+                        printf("%d ", tr[i][j]);
+                printf("\n");
+        }
+        return 0;
+}
+```
+
 ##  WELCOME 🤗😊
 
 
