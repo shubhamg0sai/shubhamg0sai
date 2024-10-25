@@ -6,4 +6,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamg0sai&" alt="shubhamg0sai" /></p>
 
-![](https://raw.githubusercontent.com/shubhamg0sai/shubhamg0sai/main/Blog/IMG-20240830-WA0002.jpg)
